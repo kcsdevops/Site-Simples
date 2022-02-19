@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>Curiosidades Olimpiadas</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css"></link>
+<style>
+#menu-h ul li:nth-child(4) a {
+        background-color: rgb(255,0,0);
+		}
+</style>
+</head>
+<body>
+<center>
+	<nav id="menu-h">
+        <ul>
+            <li><a href="ATPS.html">História das Olimpiadas</a></li>            
+            <li><a href="Olimpiadas na Atualidade.html">Olimpiadas na Atualidade</a></li>            
+            <li><a href="Olimpiadas de Toquio.html">Olimpiadas de Toquio</a></li>            
+            <li><a href="Curiosidades.html">Curiosidades</a></li>
+			<li><a href="Login.html">Entrar</a></li>
+        </ul>
+	</nav>	
+</center>
+<center>
+<h2><b>Curiosidades das Olimpiadas</h2></b><p>
+
+<ul type="square" align="left">
+<li><b>1906</b>,por questões de interesses políticos, a Grécia organizou uma Olimpíada de forma não oficial. O evento não teve destaque internacional, sendo que muitos países não estiveram presentes. Neste evento, fez parte um esporte muito curioso: o arremesso de pedras;</li><p>
+
+<li><b>1908</b>, em Londres: nesse ano, os atletas passaram a entrar de forma organizada na cerimônia de abertura. Essa também foi a olimpíada mais longa da história, de 27 de abril a 31 de outubro;</li><p>
+
+<li><b>1913</b>: a bandeira olímpica é criada pelo Barão de Coubertin;;</li><p>
+
+<li><b>1916</b>,as Olimpíadas deveriam ocorrer na Alemanha. Porém, em função da Primeira Guerra Mundial, os Jogos Olímpicos foram cancelados;</li><p>
+
+<li><b>1920</b>, em Antuérpia, na Bélgica:;</li><p>
+
+→ a bandeira é hasteada pela primeira vez;<p>
+
+→ com 72 anos, Oscar Swahn é o atleta que ganhou uma medalha com mais idade na história das olimpíadas;<p>
+
+→ Guilherme Paranaense, atleta do tiro, conquista a primeira medalha de ouro do Brasil.<p>
+
+<li><b>1928</b>, Amsterdã, na Holanda: o fogo olímpico é usado pela primeira vez;</li><p>
+
+<li><b>1932</b>, Los Angeles, Estados Unidos:</li><p>
+
+→ o hino dos países dos atletas vencedores começou a ser tocado no momento da entrega das medalhas;<p>
+
+→ nessa edição também tivemos a primeira mulher brasileira a participar de uma Olimpíada, a nadadora Maria Lenk;<p>
+
+<li><b>1940 e 1944</b>, Em função da Segunda Guerra Mundial, os Jogos Olímpicos também foram cancelados;<p>
+
+<li><b>1948</b>, em Londres: as provas de natação passaram a ser realizadas em piscinas;</li><p>
+
+<li><b>1964</b>, em Tóquio: as olimpíadas passaram a ser transmitidas via satélite pela televisão;</li><p>
+
+<li><b>1976</b>, em Montreal: o Canadá é o único país-sede que não ganhou medalhas de ouro;</li><p>
+
+<li><b>1994</b>, foi o Ano lnternacional do Esporte e do Espírito Olímpico. O ano foi estabelecido pela ONU para valorizar e divulgar a importância dos Jogos Olímpicos;</li>
+
+<li>Os principais valores do espírito olímpico são: entendimento mútuo, igualdade, amizade e jogo limpo;</li><p>
+
+<li>Críquete, golfe e cabo-de-guerra já foram esportes olímpicos no começo do século XX. Nas Olimpíadas de 1920 (Antuérpia - Bélgica), o tiro ao pombo também fez parte do quadro de jogos olímpicos;</li><p>
+
+<li>O lema olímpico "Citius, altius, fortius" (mais rápido, mais alto e mais forte) foi proposto por Pierre de Coubertin em 1894. Porém, o lema só foi oficialmente introduzido nas Olimpíadas de Paris de 1924;</li><p>
+
+<li>É comemorado em 23 de junho o Dia Internacional do Atleta Olímpico.</li><p>
+</ul>
+</center>
+</body>
+</html>

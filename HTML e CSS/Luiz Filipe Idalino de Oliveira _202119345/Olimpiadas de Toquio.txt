@@ -1,0 +1,128 @@
+<html>
+<head>
+<title>Olimpiadas de Toquio</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css"></link>
+<style>
+#menu-h ul li:nth-child(3) a {
+        background-color: rgb(255,0,0);
+		}
+</style>
+</head>
+<body>
+	<center>
+		<nav id="menu-h">
+			<ul>
+				<li><a href="ATPS.html">História das Olimpiadas</a></li>            
+				<li><a href="Olimpiadas na Atualidade.html">Olimpiadas na Atualidade</a></li>            
+				<li><a href="Olimpiadas de Toquio.html">Olimpiadas de Toquio</a></li>  
+				<li><a href="Curiosidades.html">Curiosidades</a></li>				
+				<<li><a href="Login.html">Entrar</a></li>
+			</ul>
+		</nav>		
+	</center>
+<center>
+<h2><b>Olimpiadas de toquio 2020</h2></b><p>
+
+As Olimpíadas 2020 foram realizadas entre os dias 23 de julho e 8 de agosto de 2021, na cidade de Tóquio, capital do Japão. A sede da XXXII Olimpíada ou dos Jogos Olímpicos de Verão de 2020 foi escolhida no dia 7 de setembro de 2013, durante a 125ª Sessão do Comitê Olímpico Internacional (COI), na Argentina.
+
+Inicialmente, as Olimpíadas de Tóquio ocorreriam em julho e em agosto de 2020, mas foram adiadas devido à pandemia do novo coronavírus. Apesar do adiamento para 2021, o ano de 2020 continuou sendo usado na nomenclatura do evento.
+
+<b><h3>Tóquio: a sede das Olimpíadas</h3></b><p>
+
+Tóquio é uma das maiores cidades do mundo. Famosa por sua aglomeração urbana, possui quase 14 milhões de habitantes.
+
+A capital do Japão também é considerada uma das mais importantes metrópoles do planeta, sendo o centro político, econômico, educacional e cultural do Japão. No total, Tóquio conta com 23 bairros, 26 municípios adicionais e as ilhas Izu e Ogasawara.
+
+os principais pontos turísticos de Tóquio, destacam-se o Tsukiji Fish Market, mercado que oferece café da manhã com peixe fresco; o Edo-Tokyo Museum, moderno edifício que apresenta a história da cidade por meio de exposições, e os bairros Harajuku e Shinjuku.
+
+<b><h3>Tóquio: a sede das Olimpíadas</h3></b><p>
+
+Tóquio é uma das maiores cidades do mundo. Famosa por sua aglomeração urbana, possui quase 14 milhões de habitantes.
+
+A capital do Japão também é considerada uma das mais importantes metrópoles do planeta, sendo o centro político, econômico, educacional e cultural do Japão. No total, Tóquio conta com 23 bairros, 26 municípios adicionais e as ilhas Izu e Ogasawara.
+
+Entre os principais pontos turísticos de Tóquio, destacam-se o Tsukiji Fish Market, mercado que oferece café da manhã com peixe fresco; o Edo-Tokyo Museum, moderno edifício que apresenta a história da cidade por meio de exposições, e os bairros Harajuku e Shinjuku.
+
+<b><h3>Objetivo das Olimpíadas</h3></b><p>
+
+Os Jogos Olímpicos são considerados o maior evento esportivo do mundo e ocorrem há mais de dois mil anos. O evento tem como objetivo promover a competição sadia entre os povos de todo o planeta.
+
+Segundo a organização das Olimpíadas de Tóquio 2020, ao sediar os jogos, o Japão teve como objetivo não só estimular esse tipo de competição, mas também promover mudanças em todo o mundo e deixar um legado positivo para as futuras gerações. Para isso, as Olimpíadas contaram com uma visão que contempla estes três conceitos fundamentais:
+		<UL type="circle" align="left">
+			<li>dar o melhor de si: obter a melhor versão pessoal</li>
+			<li>aceitar uns aos outros: união na diversidade</li>
+			<li>transmitir o legado para o futuro: conectar-se com o amanhã.</li><p>
+		</ul>
+	
+<b><h3>Olimpíadas de Tóquio</h3></b><p>
+
+Os Jogos Olímpicos de Tóquio 2020 não tiveram um Parque Olímpico, como os que foram construídos em edições anteriores, como nas Olimpíadas do Rio de Janeiro de 2016. Sendo assim, as competições foram realizadas em várias partes da cidade.
+
+<b>Mascotes das Olimpíadas de Tóquio 2020</b><p>
+
+As Olimpíadas de Tóquio 2020 tiveram duas mascotes:<p>
+		<uL type="square" align="left">
+			<li>Jogos Olímpicos: Miraitowa</li>
+			<li>Jogos Paralímpicos: Someity</li>
+		</ul>	
+<b>Miraitowa</b> é uma junção das palavras japonesas mirai, que significa futuro, e towa, que corresponde à eternidade.
+
+Segundo a organização do evento, a mascote Miraitowa foi criada com o objetivo de ser um tributo à mistura da tradição e da inovação da cultura japonesa. Ela foi baseada no desenho Ichimatsu, que é a logo da competição.<p>
+
+<b>Someity</b> é a fusão de "Someiyoshino", nome de uma cerejeira do Japão, e "so mighty", que significa "tão poderosa" em inglês.
+
+<b><h3>Medalhas das Olimpíadas de Tóquio 2020</h3></b>
+
+A organização da 32ª edição dos Jogos Olímpicos de Verão contou com o "Projeto Medalha Tóquio 2020", em parceria com o Centro de Saneamento Ambiental do país. A população japonesa doou eletrônicos usados para que fossem transformados em metais reciclados para produzir as medalhas. Conforme a organização, as doações dos materiais eletrônicos foram feitas em postos de coleta instalados em supermercados e shoppings.
+
+Os japoneses também participaram ativamente do desenvolvimento do design das medalhas. Para isso, foi realizado um concurso nacional em dezembro de 2017. O escolhido para desenhar as medalhas foi Junichi Kawanishi. O design faz alusão ao Big Bang.
+
+Com as contribuições da sociedade japonesa, a organização das Olimpíadas de Tóquio 2020 acreditou que a população mundial seria estimulada a tornar-se sustentável e respeitosa com o meio ambiente.
+
+<b><h3>As Olimpíadas de Tóquio e a pandemia</h3></b><p>
+
+A pandemia de covid-19 ainda não teve fim, mas como a população mundial já começou a ser vacinada, o evento ocorreu sob novo formato. Confira a seguir as particularidades dessa edição levando em consideração a pandemia:
+
+		<ol align="left">
+			<li>Atletas internacionais e equipe de apoio foram testados antes das competições e na chegada ao Japão.</li>
+			<li>Desde fevereiro de 2021, o governo de Tóquio esforçou-se para vacinar contra a covid-19 o máximo da população. Até o dia 2 de julho de 2021, 46,25 milhões de pessoas haviam sido vacinadas.</li>
+			<li>Somente foram permitidos 10 mil torcedores por evento ou 50% da ocupação total do lugar onde cada competição foi realizada. Em síntese, o número que foi menor.</li>
+			<li>Torcedores estrangeiros não puderam participar do evento. Somente foram aceitos torcedores japoneses ou torcedores estrangeiros que já moravam no país.</li>
+			<li>Pessoas com a temperatura corporal acima de 37,5 ºC em dois controles de medição não puderam ingressar nos locais dos jogos. O ingresso não foi reembolsado.</li>
+			<li>Somente foi possível assistir aos jogos com máscara. Quem estava sem essa proteção não podia tossir ou espirrar.</li>
+			<li>Não foi permitido pedir autógrafos aos atletas.</li>
+			<li>Não foram aceitos barulhos ou expressões verbais que pudessem resultar em aglomeração de pessoas.</li>
+		</ol>
+
+	<b><h3>Quadro de medalhas das Olimpíadas de Tóquio</h3></b><p>
+		<center>
+			<table BORDER="1">
+				<TR>
+					<TD width="20%"><B><center>País</center></B></TD> <TD width="20%"><B> <center>Bandeira</center> </B></TD> <TD width="20%"><B><center>Medalhas</center></B></TD> 
+				</TR>
+				<tr>
+					<TD width="20%"><B><center>Brasil</center></B></TD> <TD width="20%"><B> <a> <center> <img src="Brasil.jpg"> </center> </a> </B></TD> <TD width="20%"><B>Ouro: 7<br> Prata: 6<br> bronze: 8<br></B></TD> 
+				</tr>
+				<TR>
+					<TD width="20%"><B><center>Eua</center></B></TD> <TD width="20%"><B> <center><img src="EUA.jpg"></center> </B></TD> <TD width="20%"><B>Ouro: 39<br> Prata: 41<br> bronze: 33<br></B></TD> 
+				</TR>
+				<TR>
+					<TD width="20%"><B><center>França</center></B></TD><TD width="20%"><B> <center><img src="França.jpg"></center></B></TD> <TD width="20%"><B>Ouro: 10<br> Prata: 12<br> bronze: 11<br></B></TD> 
+				</TR>
+				<TR>
+					<TD width="20%"><B><center>japão</center></B></TD> <TD width="20%"><B> <center><img src="Japão.jpg"></center> </B></TD> <TD width="20%"><B>Ouro: 27<br> Prata: 14<br> bronze: 17<br></B></TD> 
+				</TR>
+					<TD width="20%"><B><center>canada</center></B></TD> <TD width="20%"><B> <center><img src="Canada.jpg"></center> </B></TD> <TD width="20%"><B>Ouro: 7<br> Prata: 6<br> bronze: 11<br></B></TD> 
+				</TR>
+			</table>
+		</center>
+
+<b><h3>Brasil nas Olimpíadas de Tóquio 2020</h3></b><p>
+
+O desempenho do Brasil nas Olimpíadas de Tóquio 2020 foi considerado o melhor da história. O quadro de medalhas mostrou que o país ficou em 12º lugar na competição, um acima do que nas Olimpíadas do Rio de Janeiro, em 2016.
+
+No total, o Brasil ganhou 21 de medalhas em 13 modalidades.<p>
+</center>
+</body>
+</html>
