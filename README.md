@@ -8,12 +8,12 @@ Realização de trabalho da falculdade na qual foi pedido:
 2. Utilize a linguagem HTML e CSS. Utilize um editor de texto para digitar o código (pode ser o Bloco de Notas, Notepad++, Visual Studio Code, Sublime Text ou HateML). Obs: Serão zerados os trabalhos realizados por templates ou outro tipo de programa. Pode utilizar o framework Boostrap ou Materialize.
 
 3. No seu site deverá ter no mínimo, 3 páginas com os seguintes recursos:
- Textos.
- Links (internos e externos).
- Formulários.
- Imagens (máximo 5 imagens).
- Listas.
- Tabela.
+ * Textos.
+ * Links (internos e externos).
+ * Formulários.
+ * Imagens (máximo 5 imagens).
+ * Listas.
+ * Tabela.
 
 4. Crie uma tabela com nomes de alguns países participantes dos jogos (apresente o nome e a bandeira de cada país).
 
