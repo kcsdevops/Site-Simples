@@ -1,7 +1,7 @@
 # Site Simples
  Um site feito usando HTML e CSS
 
-Realização de trabalho da falculdade na qual foi pedido:
+# Realização de trabalho da falculdade na qual foi pedido:
 
 1. Desenvolva um SITE com as linguagens HTML e CSS.
 
